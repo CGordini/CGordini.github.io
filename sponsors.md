@@ -37,6 +37,7 @@ title: Sponsors
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                                 <b>Cherry Creek Cellars</b>
                             </button>
+                            <!--TODO: fix cherry creek in white/light browsing-->
                             <a href="https://cherrycreekwine.com/"><img class="logo" src="/assets/images/Sponsors/cherrycreek.png"/></a>
                             <br/>
                             <i>Brooklyn, MI</i>
@@ -77,23 +78,23 @@ title: Sponsors
                 </div>
             </div>
         </div>
-        <!--WRAPDETROIT-->
+        <!--BREWERY BECKER-->
         <div class="col">
             <div class="accordion" id="accordionFour">
                 <div class="accordion-item">
                     <div class="sponsor">
                         <div class="accordion-header" id="headingFour">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                                <b>WrapDetroit</b>
+                                <b>Brewery Becker</b>
                             </button>
-                            <a href="https://wrapdetroit.com/"><img class="logo" src="/assets/images/Sponsors/WD.png"/></a>
+                            <a href="https://brewerybecker.com/"><img class="logo" src="/assets/images/Sponsors/BB.png"/></a>
                             <br/>
-                            <i>Livonia, MI</i>
+                            <i>Brighton, MI</i>
                         </div>
                         <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExampleFour">
                             <div class="accordion-body">
                                 <br/>
-                                <p>WrapDetroit are graphic application experts found on the outskirts of Detroit; this last year, they redid the livery for my own racecar, as well as various liveries for IMSA GT3 Ford Mustangs celebrating the 60th Anniversary of the Mustang. Their speed and quality were downright impressive as a first time wrap customer, and they have gone out of their way to supply my friends and I with extra bits and pieces as we compete in #GRIDLIFE.</p>
+                                <p>Brewery Brighton are a German-influenced beer brewery out of Brighton, Michigan. Most famous for their hefeweizen (which is <i>amazing</i>), the owner is a racing fan whose family has a history with the SCCA. I'm very fortunate to have them supporting me at a grassroots level, and highly recommend spending some time in their beer garden!</p>
                             </div>
                         </div>
                     </div>
@@ -150,5 +151,5 @@ title: Sponsors
                 </div>
             </div>
         </div> -->
-  </div>
+    </div>
 </div>
