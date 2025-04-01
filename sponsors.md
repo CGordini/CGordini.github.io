@@ -87,7 +87,7 @@ title: Sponsors
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
                                 <b>Brewery Becker</b>
                             </button>
-                            <a href="https://brewerybecker.com/"><img class="logo" src="/assets/images/Sponsors/BB.png"/></a>
+                            <a href="https://brewerybecker.com/"><img class="logo" src="/assets/images/Sponsors/bb.png"/></a>
                             <br/>
                             <i>Brighton, MI</i>
                         </div>
