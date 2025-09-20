@@ -31,7 +31,7 @@ There's also a hidden page at `/styles` that shows you what the css will look li
 https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.6-1/rubyinstaller-devkit-2.6.6-1-x64.exe
 (NOTE that I told it to install [1,3] when prompted)
 3. In a *Ruby* command prompt, run 
-   gem install bundler jekyll
+   gem install bundle jekyll
 4. In a projectdir Ruby command prompt, run 
    bundle install
 to go get all the latest things required to run this locally

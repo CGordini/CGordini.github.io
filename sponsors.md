@@ -37,8 +37,8 @@ title: Sponsors
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                                 <b>Cherry Creek Cellars</b>
                             </button>
-                            <!--TODO: fix cherry creek in white/light browsing-->
-                            <a href="https://cherrycreekwine.com/"><img class="logo" src="/assets/images/Sponsors/cherrycreek.png"/></a>
+                            <!--todo -- two hrefs,one for each color-->
+                            <a href="https://cherrycreekwine.com/"><img class="logo" src="/assets/images/Sponsors/cherrycreek-w.png"/></a>
                             <br/>
                             <i>Brooklyn, MI</i>
                         </div>
@@ -128,28 +128,29 @@ title: Sponsors
                 </div>
             </div>
         </div>
-        <!--SUPERLAP-->
-        <!-- <div class="col">
-            <div class="accordion" id="accordionFour">
+        <!--Fraser Coatings -->
+        <div class="col">
+            <div class="accordion" id="accordionSix">
                 <div class="accordion-item">
                     <div class="sponsor">
-                        <div class="accordion-header" id="headingFour">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
-                                <b>Superlap</b>
+                        <div class="accordion-header" id="headingSix">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
+                                <b>Fraser Coatings</b>
                             </button>
-                            <a href="https://superlap.world/"><img class="logo" src="/assets/images/Sponsors/superlap.png"/></a>
+                            <!--todo -- two hrefs,one for each color-->
+                            <a href="https://www.frasercoatings.com/"><img class="logo" src="/assets/images/Sponsors/frasercoatings-w.png"/></a>
                             <br/>
-                            <i>Berkley, MI</i>
+                            <i>Shelby, MI</i>
                         </div>
-                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExampleFour">
+                        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#accordionExampleSix">
                             <div class="accordion-body">
                                 <br/>
-                                <p>Superlap is a sim studio located just on the outskirts of Detroit, that prides itself on its eight full-motion sim rigs. Dan Cycholl, founder/owner, is extremely involved in the local racing community, and often can be found supporting the local track (Waterford Hills Road Racing) and the Detroit Region SCCA in his own NC Mazda MX-5.</p>
+                                <p>Fraser Coatings is Macomb County's boutique powder coating and Cerakoting specialist, bringing precision and artistry to car and motorcycle parts, wheels, and unique custom projects. They've done extensive work under my hood making me look good!</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
