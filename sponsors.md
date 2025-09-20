@@ -37,8 +37,14 @@ title: Sponsors
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
                                 <b>Cherry Creek Cellars</b>
                             </button>
-                            <!--todo -- two hrefs,one for each color-->
-                            <a href="https://cherrycreekwine.com/"><img class="logo" src="/assets/images/Sponsors/cherrycreek-w.png"/></a>
+                            <!--todo -- why doesnt this work -->
+                            <a href="https://cherrycreekwine.com/">
+                                <picture>
+                                    <source srcset="/assets/images/Sponsors/cherrycreek-w.png" media="(prefers-color-scheme: light)"/>
+                                    <source srcset="/assets/images/Sponsors/cherrycreek-w.png"  media="(prefers-color-scheme: dark)"/>
+                                    <img class="logo" src="/assets/images/Sponsors/cherrycreek-w.png"/>
+                                </picture>
+                            </a>
                             <br/>
                             <i>Brooklyn, MI</i>
                         </div>
@@ -137,8 +143,14 @@ title: Sponsors
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
                                 <b>Fraser Coatings</b>
                             </button>
-                            <!--todo -- two hrefs,one for each color-->
-                            <a href="https://www.frasercoatings.com/"><img class="logo" src="/assets/images/Sponsors/frasercoatings-w.png"/></a>
+                            <!--todo -- why doesnt this work -->
+                            <a href="https://www.frasercoatings.com/">
+                                <picture>
+                                    <source srcset="/assets/images/Sponsors/frasercoatings-b.png"  media="(prefers-color-scheme: dark)"/>
+                                    <source srcset="/assets/images/Sponsors/frasercoatings-w.png" media="(prefers-color-scheme: light)"/>
+                                    <img class="logo" src="/assets/images/Sponsors/frasercoatings-w.png"/>
+                                </picture>
+                            </a>
                             <br/>
                             <i>Shelby, MI</i>
                         </div>
