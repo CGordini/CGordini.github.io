@@ -8,15 +8,15 @@
 
 I have progressed from a novice intimidated by everything on-track, to an instructor for <a href="https://www.summertrackdays.com">Summer Track Days</a>, teaching others not to be intimidated and to drive safe, smooth, and fast.
 
-This marks my second year competing in <a href="https://www.grid.life">#GRIDLIFE</a> ((Track Battle: Street Mod)).
+This marks my third year competing in <a href="https://www.grid.life">#GRIDLIFE</a> ((Track Battle: Street Mod)).
 
 <div class="tinybreak"></div>
 
 <h1 class="page-title moveup">The Car</h1>
 
-<img src="/assets/images/SYN_corytake-V3.png"/>
+<img src="/assets/images/SYN_corytake-V4.png"/>
 
-1991 Mazda Miata, with a 1.8L motor swapped from a 1995. The motor was custom-built by <a href="https://www.facebook.com/ImmortanAutomotive/">Immortan Automotive (Ypsilanti, MI)</a> in 2020, featuring Wiseco pistons, Manley rods, and a Boundary billet oil pump. It has been since turbocharged with elements selected from <a href="https://flyinmiata.com/">Flyin' Miata</a> and <a href="https://fab9tuning.com/">Fab9Tuning</a>, a Garrett GT2560R turbocharger, FlowForce 640cc injectors, a MegaSquirt MS3PNP ECU, and a tune by <a href="http://www.pure-tuning.com/">Pure Tuning (Toledo, OH)</a>, running E-85 and about 16 psi boost.
+1991 Mazda Miata, with a 1.8L motor swapped from a 1995. The motor was custom-built by <a href="https://www.facebook.com/ImmortanAutomotive/">Immortan Automotive (Ypsilanti, MI)</a> in 2020, featuring Wiseco pistons, Manley rods, and a Boundary billet oil pump. It has been since turbocharged with elements selected from <a href="https://flyinmiata.com/">Flyin' Miata</a> and <a href="https://fab9tuning.com/">Fab9Tuning</a>, a Pulsar PTX2860R GEN II turbocharger, InjectorDynamics 1050cc injectors, a MegaSquirt MS3PNP ECU, and a tune by <a href="http://www.pure-tuning.com/">Pure Tuning (Toledo, OH)</a>, running E-85 and about 15 psi boost. Current goal is about 350rwhp, weighing in at just a hair under 2,500lbs.
 
 Aero from <a href="https://9livesracing.com/">Nine Lives Racing</a>, suspension served by Xidas from <a href="https://www.949racing.com/supermiata/">Supermiata</a>, brakes from Wilwood, and brake pads from <a href="https://cobaltbrakes.com/">Cobalt Racing (Ann Arbor, MI)</a>.
 
